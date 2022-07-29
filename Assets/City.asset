@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd3f65d98a199547ac810d0bcea1ec3, type: 3}
+  m_Name: City
+  m_EditorClassIdentifier: 
+  straightRoad:
+    objectToSpawn: {fileID: 2031520947116808067, guid: aa20547dfc1c8104e9a4bb855c15ca97, type: 3}
+  turnRoad:
+    objectToSpawn: {fileID: 1133791878262783603, guid: 5d01fbd589c6eb542ba764e2ba5d07a4, type: 3}
+  threeWayRoad:
+    objectToSpawn: {fileID: 8667212438721953384, guid: 044bacb8960e9c8448cd7aba3a4dad6d, type: 3}
+  fourWayRoad:
+    objectToSpawn: {fileID: 5347529662965616592, guid: c913bca7318160546aade0b2fdcfc510, type: 3}
+  building:
+  - objectToSpawn: {fileID: 4351020587270184948, guid: a5bc9c68b6d707a49b7da8448a7df0b9, type: 3}
+  - objectToSpawn: {fileID: 4023579556226272446, guid: 7b28a7fc39c5bc448a31e136743394c4, type: 3}
+  - objectToSpawn: {fileID: 5220008851728818357, guid: 4ac9b93be8198fc4d8130b9429af14f9, type: 3}
+  grass:
+    objectToSpawn: {fileID: 1412596025838629691, guid: a014677a85474664793e20810bb62f3a, type: 3}
+  pavement:
+    objectToSpawn: {fileID: 4567323201291730997, guid: adfde29e3d582c24988c04bafc8090e3, type: 3}

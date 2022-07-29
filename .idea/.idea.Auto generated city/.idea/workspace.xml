@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0221fe15-6d7e-412a-b335-4393acb66443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityObjects/FourWayRoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityObjects/ThreeWayRoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mani/Scripts/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/GenerationAlgorithms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CitySciptableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityObjects/Building.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mani/Scripts/VectorCalculation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/50/b9b7429a/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityObjects/TurnRoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/Editor/CityMapEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityObjects/CityObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityGridObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/City/CityObjects/StraightRoad.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generaator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CityStructure.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/RoadEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CityInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CityLayoutObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CityTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CityGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/CityMapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/MapGenerators.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/Editor/CityMapEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/CityMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GenerationAlgorithms.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/CityGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/CityGridObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mani/Scripts/Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/MapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/RoadsSciptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityGridObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObjects/CityObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObjects/StraightRoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObjects/TurnRoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObjects/ThreeWayRoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObjects/FourWayRoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityObjects/Building.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CitySciptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/City/CityGenerator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qOPKhJwMzFj2gDQ8BFNjqjCu2J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0221fe15-6d7e-412a-b335-4393acb66443" name="Default Changelist" comment="" />
+      <created>1616947602130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616947602130</updated>
+      <workItem from="1616947610249" duration="3695000" />
+      <workItem from="1617005081244" duration="5735000" />
+      <workItem from="1617024821988" duration="2214000" />
+      <workItem from="1617094578846" duration="3497000" />
+      <workItem from="1617342475321" duration="3665000" />
+      <workItem from="1617448965701" duration="7509000" />
+      <workItem from="1617618928958" duration="5879000" />
+      <workItem from="1617704507892" duration="479000" />
+      <workItem from="1617705016984" duration="4910000" />
+      <workItem from="1617796021296" duration="2422000" />
+      <workItem from="1617866908045" duration="299000" />
+      <workItem from="1618038756137" duration="4086000" />
+      <workItem from="1618052896321" duration="4545000" />
+      <workItem from="1618069870207" duration="1163000" />
+      <workItem from="1620022093006" duration="728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="670" y="201" key="RiderGenerateDialog" timestamp="1617455048903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="201" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617455048903" />
+  </component>
+</project>

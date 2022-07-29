@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Games\Auto generated city" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="City" t="Include">
+            <e p="CityGenerator.cs" t="Include" />
+            <e p="CityGridObject.cs" t="Include" />
+            <e p="CityObjects" t="Include">
+              <e p="Building.cs" t="Include" />
+              <e p="CityObject.cs" t="Include" />
+              <e p="FourWayRoad.cs" t="Include" />
+              <e p="StraightRoad.cs" t="Include" />
+              <e p="ThreeWayRoad.cs" t="Include" />
+              <e p="TurnRoad.cs" t="Include" />
+            </e>
+            <e p="CitySciptableObject.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CityMapEditor.cs" t="Include" />
+            </e>
+            <e p="GenerationAlgorithms.cs" t="Include" />
+            <e p="Grid.cs" t="Include" />
+            <e p="MapGenerator.cs" t="Include" />
+          </e>
+          <e p="Mani" t="Include">
+            <e p="Mani.asmdef" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="GridMap" t="Include">
+                <e p="Grid.cs" t="Include" />
+              </e>
+              <e p="NumberCalculation.cs" t="Include" />
+              <e p="Timing" t="Include">
+                <e p="Timer.cs" t="Include" />
+              </e>
+              <e p="TpMovements.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+              <e p="VectorCalculation.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Auto generated city.sln" t="IncludeFlat" />
+      <e p="Mani.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\ok\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ok\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Auto generated city.-1286130195.00" t="ExcludeRecursive" />
+  </component>
+</project>
